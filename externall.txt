@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>External JavaScript Example</title>
+    <script src="script.js"></script>
+</head>
+<body>
+    <h1>External JavaScript Example</h1>
+    <p>This is an example of using external JavaScript in an HTML document.</p>
+</body>
+</html>
